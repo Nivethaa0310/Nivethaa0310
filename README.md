@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I am funny 😉**  
 
-- 👩‍💻 My leetcode <a href = "https://leetcode.com/nivethaa0310/"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
