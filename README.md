@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/originals/28/9f/02/289f0221ba2afa9793dc8c174131a4c2.png" width=100%><br>
 
 <h1 align="center">Hi 👋, I'm Nivethaa</h1>
 <h3 align="center">A passionate Computer Science Student of RMK Engineering College</h3><hr>
@@ -16,9 +15,6 @@
 - 📫 How to reach me **nivethaa0310@gmail.com**
 
 - ⚡ Fun fact **I am funny 😉** 
-
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivethaa0310" alt="nivethaa0310" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivethaa0310&show_icons=true&locale=en" alt="nivethaa0310" /></p><hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivethaa0310&" alt="nivethaa0310" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivethaa0310&" alt="nivethaa0310" /></p> <br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivethaa0310" alt="nivethaa0310" /></a> </p>
