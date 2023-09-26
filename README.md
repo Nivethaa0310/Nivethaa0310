@@ -1,6 +1,6 @@
 # [![](https://visitcount.itsvg.in/api?id=nivethaa0310&icon=3&color=12)](https://visitcount.itsvg.in)
 💫 About Me:
-🌱 I’m currently learning Python, C, C++,DSA<br><br>👩🏻‍💻 My leetcode profile https://leetcode.com/nivethaa0310/<br><br>💬 Ask me about Python , C, C++<br><br>📫 How to reach me nivethaa0310@gmail.com<br><br>⚡ Fun fact I am funny 😉
+🌱 I’m currently pursuing B.E. Computer Science Engineering<br><br>👩🏻‍💻 My leetcode profile https://leetcode.com/nivethaa0310/<br><br>📫 How to reach me nivethaa0310@gmail.com<br><br>⚡ Fun fact I am funny 😉
 
 
 ## 🌐 Socials:
